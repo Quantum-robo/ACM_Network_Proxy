@@ -39,3 +39,4 @@ Logs are written to "logs/proxy.log".
 
 ## Shutdown
 Press Ctrl+C to stop the proxy gracefully.
+(demo video in docs)
